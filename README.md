@@ -8,7 +8,7 @@ This repository contains notes, practice problems, and solutions as I improve my
 ##  Topics Covered
 
 - [x] C++ Basics
-- [ ] Time and Space Complexity
+- [x] Time and Space Complexity
 - [ ] Patterns
 
 ##  Language
