@@ -56,3 +56,11 @@ Therefore, the time complexity is `O(N^3)`.
 - **Big-O notation (`O`)** – Upper bound
 - **Theta notation (`Θ`)** – Tight bound
 - **Omega notation (`Ω`)** – Lower bound
+
+## Time Limit (LeetCode / Competitive Programming)
+
+A rough estimate of the number of operations allowed based on the time limit:
+
+- **1 second** ≈ \(10^8\) operations
+- **2 seconds** ≈ \(2 \times 10^8\) operations
+- **5 seconds** ≈ \(5 \times 10^8\) operations
