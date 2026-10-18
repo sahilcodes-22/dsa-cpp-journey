@@ -10,6 +10,8 @@ This repository contains notes, practice problems, and solutions as I improve my
 - [x] C++ Basics
 - [x] Time and Space Complexity
 - [ ] Patterns
+- [ ] STL
+- [ ] Basic Maths
 
 ##  Language
 C++
