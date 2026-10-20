@@ -11,8 +11,9 @@ This repository contains notes, practice problems, and solutions as I improve my
 - [x] Time and Space Complexity
 - [x] Patterns
 - [x] STL
-- [ ] Basic Maths
+- [x] Basic Maths
 - [ ] Recursion
+- [ ] Hashing
 
 ##  Language
 C++
