@@ -14,6 +14,7 @@ This repository contains notes, practice problems, and solutions as I improve my
 - [x] Basic Maths
 - [x] Recursion
 - [ ] Hashing
+- [ ] Sorting
 
 ##  Language
 C++
