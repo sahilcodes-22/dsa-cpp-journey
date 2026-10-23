@@ -12,7 +12,7 @@ This repository contains notes, practice problems, and solutions as I improve my
 - [x] Patterns
 - [x] STL
 - [x] Basic Maths
-- [ ] Recursion
+- [x] Recursion
 - [ ] Hashing
 
 ##  Language
