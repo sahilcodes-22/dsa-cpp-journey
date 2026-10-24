@@ -13,7 +13,7 @@ This repository contains notes, practice problems, and solutions as I improve my
 - [x] STL
 - [x] Basic Maths
 - [x] Recursion
-- [ ] Hashing
+- [x] Hashing
 - [ ] Sorting
 
 ##  Language
